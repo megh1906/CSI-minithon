@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1514897575457-c4db467cf78e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+    background-size: cover;
+}
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1vw;
+    font-weight: 100;
+    color: white;
+
+  }
+  
+  header {
+    background-color: black;
+    opacity: 0.2vw;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .mission-info p {
+    margin: 0.5rem 0;
+  }
+  
+  .mission-details h2 {
+    margin-top: 1rem;
+  }
+  
+  .mission-objectives,
+  .mission-technologies,
+  .mission-media {
+    margin-top: 2rem;
+  }
+  
+  .media-item img {
+    max-width: 100%;
+    margin-top: 1rem;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+
+  }
+
+  img{
+    width: 50vw;
+    height: 50vw;
+  }
+  
